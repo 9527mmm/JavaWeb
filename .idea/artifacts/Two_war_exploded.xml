@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Two:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Two_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Two/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Two" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
